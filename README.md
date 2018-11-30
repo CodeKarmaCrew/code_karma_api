@@ -1,6 +1,6 @@
 # Code Karma API
 
-Code Karma is a motivational platform built using Angular and a Rails API for developers to use their coding and design skills for good.  At Code Karma, we believe in the democratic influence of the world wide web.  With the help of a strong web presence, nonprofits can reach wider audiences, raise more funds and do more good.   Developers looking to build their resumes, learn new skills, or give back to society can sign up for a nonprofit project and earn points for completing or answering tech-related questions via the community feed.  In this way, nonprofits get the help they need free of charge, and developers get to work on the projects with real-world impact.
+Code Karma is a motivational platform built using Angular and a Rails API for developers to use their coding and design skills for good.  At Code Karma, we believe in the democratic influence of the world wide web.  With the help of a strong web presence, nonprofit organizations can reach wider audiences, raise more funds and do more good.   Developers looking to build their resumes, learn new skills, or give back to society can sign up for a nonprofit project and earn points for completing or answering tech-related questions via the community feed.  In this way, nonprofits get the help they need free of charge, and developers get to work on the projects with real-world impact.
 
 Please visit our site hosted on Github pages: https://samanthasheadavis.github.io/codeKarma/#/
 
